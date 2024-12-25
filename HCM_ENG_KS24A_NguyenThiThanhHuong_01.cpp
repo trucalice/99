@@ -5,7 +5,7 @@ int main() {
     int arr[MAX_SIZE];
     int n = 0, choice, value, pos;
 
-    while (1) { // Vòng l?p chính cho menu
+    while (1) { 
         printf("\n%23s\n", "MENU");
         printf("1. Nhap so phan tu va gia tri cua mang\n");
         printf("2. In ra gia tri cac phan tu trong mang\n");
